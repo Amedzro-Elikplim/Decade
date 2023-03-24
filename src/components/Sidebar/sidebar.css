@@ -1,5 +1,5 @@
 .flex-sidebar {
-    flex: 0.6;
+    flex: 0.7;
 }
 
 .sidebar {
@@ -7,6 +7,28 @@
    margin-bottom: 0;
    background-color: #E3E6FA;
    box-shadow: 1px 1px 5px gray inset;
-   border-radius: 0 10px 10px 0;
+   /* border-radius: 0 10px 10px 0; */
    grid-template-rows: 0.15fr 3fr 0.1fr;
+}
+
+.footer {
+    background-color: #833AB4;
+}
+
+.header {
+    border-bottom: 1px solid #ACACAC;
+    font-family: "Raleway";
+    font-weight: 100;
+    font-size: 12px;
+    font-style: normal;
+    color: #833AB4;
+}
+
+.icon-pie-chart {
+    zoom: 4;
+}
+
+.header-icons {
+    zoom: 1.4;
+    color: #595858;
 }

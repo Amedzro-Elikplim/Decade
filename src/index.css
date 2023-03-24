@@ -37,6 +37,10 @@
   gap: 10px;
 }
 
+.g-5 {
+  gap: 5px;
+}
+
 .mr-1 {
   margin-right: 1;
 }
@@ -56,4 +60,5 @@
 .d-grid {
   display: grid;
 }
+
 
