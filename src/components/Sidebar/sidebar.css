@@ -1,0 +1,12 @@
+.flex-sidebar {
+    flex: 0.6;
+}
+
+.sidebar {
+   min-height: 100vh;
+   margin-bottom: 0;
+   background-color: #E3E6FA;
+   box-shadow: 1px 1px 5px gray inset;
+   border-radius: 0 10px 10px 0;
+   grid-template-rows: 0.15fr 3fr 0.1fr;
+}
