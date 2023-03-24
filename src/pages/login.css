@@ -1,0 +1,6 @@
+.login-card {
+    box-shadow: 1px 1px 5px gray;
+    min-width: 30vw;
+    min-height: 40vh;
+    border-radius: 10px;
+}
