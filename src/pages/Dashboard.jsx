@@ -1,5 +1,5 @@
 import Sidebar from "../components/Sidebar/Sidebar";
-import Content from "../components/Content";
+import Content from "../components/DashboardContent/Content";
 
 const Dashboard = () => {
 

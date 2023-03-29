@@ -1,6 +1,6 @@
 const SidebarFooter = () => {
     return (
-        <div>sidbar footer</div>
+        <div className="footer"></div>
     )
 };
 

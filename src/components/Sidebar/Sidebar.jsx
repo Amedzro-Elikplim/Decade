@@ -6,11 +6,11 @@ import SidebarHeader from "./SidebarHeader";
 const Sidebar = () => {
 
     return (
-         <div className="d-grid flex-sidebar sidebar">
+         <aside className="d-grid flex-sidebar sidebar">
             <SidebarHeader />
             <SidebarContent />
             <SidebarFooter />
-         </div>
+         </aside>
     )
 };
 

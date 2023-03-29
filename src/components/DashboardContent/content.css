@@ -1,0 +1,16 @@
+.flex-content {
+    flex: 3;
+}
+
+/* .dashboard-content {
+    grid-template-rows: 0.2fr 3fr;
+} */
+
+.navbar {
+    box-shadow: 1px 1px 1px gray;
+    height: 68px;
+    /* background: url("../../assets/wave.svg");
+    background-repeat: no-repeat;
+    background-size: 100vw 200px; */
+    
+}
